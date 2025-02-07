@@ -4,6 +4,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 body{
     background-color: #080710;
@@ -11,11 +12,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow-x: hidden;
 }
 
 .container{
-    max-width: 1440px;
+    width: 100vw;
     height: 80vh;
+    overflow: hidden;
 }
 
 .background{
@@ -124,6 +127,7 @@ button{
     width: 90%;
     max-width: 500px;
     background-color: #080710;
+    overflow: hidden;
 }
 
 .frame {
