@@ -16,7 +16,6 @@
   <h2>Tech Stack</h2>
   <ul>
     <li><strong>Backend</strong>: Python</li>
-    <li><strong>SMS Service</strong>: Twilio (or any other SMS API provider)</li>
     <li><strong>Database</strong>: Any relational database for storing user details and session data (e.g., SQLite, MySQL, PostgreSQL)</li>
   </ul>
 
