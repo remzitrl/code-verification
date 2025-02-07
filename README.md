@@ -2,8 +2,7 @@
   
   <p>This project implements a phone verification system where users receive a code on their phone to authenticate their login attempts. The system ensures secure access to a platform by sending a verification code via SMS, which the user must enter to successfully log in.</p>
   
-  <!-- Image 1: Phone Authentication -->
-  <img src="image1-placeholder.jpg" alt="Phone Authentication" style="max-width:100%; height:auto;">
+  <img width="1387" alt="Image" src="https://github.com/user-attachments/assets/2c40b56b-c83e-4d05-8152-2cfb16fccecf" />
   
   <h2>Features</h2>
   <ul>
@@ -12,8 +11,7 @@
     <li><strong>Secure Login</strong>: The system ensures that only users with the correct verification code can log in, enhancing security.</li>
   </ul>
 
-  <!-- Image 2: Secure Login Process -->
-  <img src="image2-placeholder.jpg" alt="Secure Login Process" style="max-width:100%; height:auto;">
+ <img width="1387" alt="Image" src="https://github.com/user-attachments/assets/f242f791-0b5b-4920-b38e-7409c1576523" />
   
   <h2>Tech Stack</h2>
   <ul>
